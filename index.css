@@ -1,15 +1,19 @@
-* {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+* {font-family:'Courier New', Courier, monospace;
+  background-color: rgb(255, 255, 255);
+}
 
 h3 {
     text-align: center;
     color:white;
     font-size: xx-large;
     letter-spacing: 10px;
+    background-color: transparent;
 }
 
  img {
     text-align: center;
     background-color: transparent;
+    display:block;
 }
 
 .title {
@@ -19,16 +23,17 @@ h3 {
 }
 
 .icons {
-background-color: rgb(182, 227, 255);
+  width: 100px;
+  height:100px;
+  background-color: rgb(182, 227, 255);
   padding: 30px;
   border: 1px solid gray;
   border-radius: 100px;
   border-color: lightblue;
   text-align: center;
   letter-spacing: 100px;
-  margin:50px;
-  margin-left: 760px;
-  margin-right: 760px;
-  
+  margin:auto;
+  margin-top: 2%;
+  color:transparent;
+  line-height: ;
 }
-
