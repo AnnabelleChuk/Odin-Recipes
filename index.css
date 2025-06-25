@@ -1,0 +1,34 @@
+* {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+h3 {
+    text-align: center;
+    color:white;
+    font-size: xx-large;
+    letter-spacing: 10px;
+}
+
+ img {
+    text-align: center;
+    background-color: transparent;
+}
+
+.title {
+    background-color: lightpink;
+  padding: 10px;
+  border-radius: 50px;
+}
+
+.icons {
+background-color: rgb(182, 227, 255);
+  padding: 30px;
+  border: 1px solid gray;
+  border-radius: 100px;
+  border-color: lightblue;
+  text-align: center;
+  letter-spacing: 100px;
+  margin:50px;
+  margin-left: 760px;
+  margin-right: 760px;
+  
+}
+
