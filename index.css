@@ -37,3 +37,11 @@ h3 {
   color:transparent;
   line-height: ;
 }
+
+.horizonalalign {
+  margin:20px auto;
+  display:flex;
+  align-content: center;
+  justify-content: center;
+  gap:50px;
+}

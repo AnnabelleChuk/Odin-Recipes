@@ -1,10 +1,42 @@
-* {font-family: 'Courier New', Courier, monospace;}
-
-h3 {
-    text-align: center;
-    font-size: xx-large;
+* {font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
 }
 
- a {
+.title {
     text-align: center;
-}
+    font-size: 30px;
+    background-color: lightpink;
+    margin:auto;
+    padding: 10px;
+    border-radius: 100px;
+    width: 40%;
+    color:white;
+    letter-spacing: 10px;
+    margin-bottom: 10px;}
+
+.homebutton {
+
+    font-size: 120%;
+    letter-spacing: 5px;
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+    padding:10px;
+    border-radius: 100px;
+    width:5%;
+    border: none;
+    display: inline-flex; 
+    align-items: center;
+    justify-content: center;
+    margin:5px;}
+
+.recipebutton{
+
+    font-size: 120%;
+    letter-spacing: 5px;
+    text-align: center;
+    background-color: lightblue;
+    padding:10px;
+    border-radius: 100px;
+    width:90%;
+    border: none;
+    margin:10px auto;}
